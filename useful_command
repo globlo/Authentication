@@ -1,0 +1,8 @@
+Create react app:
+npx create-react-app aythentication-app
+
+cd aythentication-app
+npm start
+
+Install bootstrap
+npm i bootstrap react-bootstrap
